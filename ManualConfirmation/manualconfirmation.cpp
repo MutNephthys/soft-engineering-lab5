@@ -145,8 +145,6 @@ void ManualConfirmation::confirm()
     {
         closeWindow();
     }
-    //ui->label->clear();
-    //ui->label_2->clear();
 }
 void ManualConfirmation::showDialog(int index)
 {
